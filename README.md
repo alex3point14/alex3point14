@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alex3point14
+- 👋 Hi, I’m Alex Pivaral
 - 👀 I’m interested in Cybersecurity - Especially in system-level security
 - 🌱 I’m currently learning Kotlin App development and exploring cybersecurity fundamentals
 - 💞️ I’m looking to collaborate on CTF challenges, security tools, or beginner-friendly open source security projects
