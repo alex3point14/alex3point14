@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on CTF challenges, security tools, or beginner-friendly open source security projects
 - 📫 How to reach me: Discord @piman2028
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have bold ambitions and I'm working hard to build the tools to match - Stay tuned!
+- ⚡ Fun fact: I have bold ambitions and I'm working hard to build the tools to match, Stay tuned!
 
 <!---
 alex3point14/alex3point14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
